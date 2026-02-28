@@ -1,3 +1,5 @@
-a = 5
-b = 3
-print("Sum =", a + b)
+def main():
+    print("Hello, World!")
+
+if __name__ == "__main__":
+    main()
